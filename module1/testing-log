@@ -1,0 +1,14 @@
+# Module 1 Testing Log — CSC-114 Study Buddy
+
+## My three tests
+
+| # | Type | Question I asked | What I expected | What actually happened | Pass / Fail |
+|---|------|------------------|-----------------|------------------------|-------------|
+| 1 | Known good | What is the prerequisite for CSC-114? | A correct answer from the syllabus | Answered plainly and correctly | Pass |
+| 2 | Known bad | What programming languages will we learn in CSC-114? | "That isn't in the notes you gave me" | Used fallback, then noted Keras and PyTorch from Course Outcomes without inventing anything | Pass |
+| 3 | Edge case | Will we do any group projects in CSC-114? | Discovery — not sure | Found the one mention of group work under Attendance/Participation but correctly said no graded assignments are labeled as group projects | n/a |
+
+## My one change
+- **Which test prompted the change:** Test 2 and 3 (citations were vague)
+- **The one thing I changed:** Added "When citing information, mention the section of the syllabus it came from."
+- **What happened when I re-ran that test:** Same fallback behavior, still accurate, no hallucination
